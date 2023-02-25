@@ -17,6 +17,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
+      "name": "Wrapped Avax",
+      "symbol": "WAVAX",
+      "chainId": 43113,
+      "decimals": 18,
+      "address": "0x1D308089a2D1Ced3f1Ce36B1FcaF815b07217be3",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+    },
+    {
       "name": "Wrapped Ether - Axelar",
       "symbol": "axlWETH",
       "chainId": 43113,

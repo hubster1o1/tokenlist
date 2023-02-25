@@ -1,0 +1,28 @@
+{
+  "name": "Evmosdex List",
+  "timestamp": "2023-02-24T00:00:00.000Z",
+  "logoURI": "https://www.evmosdex.fi/favicon.png",
+  "version": {
+    "major": 21,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "USD Coin - Axelar",
+      "symbol": "axlUSDC",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x15C3Eb3B621d1Bff62CbA1c9536B7c1AE9149b57",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Wrapped Ether - Axelar",
+      "symbol": "axlWETH",
+      "chainId": 9001,
+      "decimals": 18,
+      "address": "0x50dE24B3f0B3136C50FA8A3B8ebc8BD80a269ce5",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }
+  ]
+}

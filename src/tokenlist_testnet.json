@@ -22,7 +22,7 @@
       "chainId": 9000,
       "decimals": 18,
       "address": "0xBeFe898407483f0f2fF605971FBD8Cf8FbD8B160",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.png"
     },
     {
       "name": "Wrapped Ether - Axelar",

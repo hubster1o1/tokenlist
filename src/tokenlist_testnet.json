@@ -1,0 +1,76 @@
+{
+  "name": "Forge Token List",
+  "timestamp": "2023-02-24T00:00:00.000Z",
+  "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
+  "version": {
+    "major": 22,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "USD Coin - Axelar",
+      "symbol": "axlUSDC",
+      "chainId": 9000,
+      "decimals": 6,
+      "address": "0xBf6942D20D1460334B9b147199c4f03c97b70d02",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Wrapped tEVMOS",
+      "symbol": "WAVAX",
+      "chainId": 9000,
+      "decimals": 18,
+      "address": "0xBeFe898407483f0f2fF605971FBD8Cf8FbD8B160",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/evmos/images/evmos.png"
+    },
+    {
+      "name": "Wrapped Ether - Axelar",
+      "symbol": "axlWETH",
+      "chainId": 9000,
+      "decimals": 18,
+      "address": "0x43bDe47a34801f6aB2d66016Aef723Ba1b3A62b3",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+     {
+      "name": "LetsFuckingGo",
+      "symbol": "LFG",
+      "chainId": 9000,
+      "decimals": 18,
+      "address": "0xE7bbbEE8Fc04F93d5D07029754D2345684A9a28B",
+      "logoURI": "https://github.com/trustwallet/assets/blob/master/blockchains/binance/assets/BULL-BE4/logo.png"
+    },
+     {
+      "name": "Up Only",
+      "symbol": "UP",
+      "chainId": 9000,
+      "decimals": 18,
+      "address": "0xA83C23914Ab58B4A19C510f1A46FFB4fFcDa3c95",
+      "logoURI": "https://github.com/trustwallet/assets/blob/master/blockchains/binance/assets/SWINGBY-888/logo.png"
+    },
+     {
+      "name": "AVAX",
+      "symbol": "tAVAX",
+      "chainId": 9000,
+      "decimals": 18,
+      "address": "0x7A7E1d7c841EA331d88D16213dc88dc268d9690E",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/avalanchec/info/logo.png"
+    },
+    {
+    "name": "Arbitrum",
+    "symbol": "tARB",
+    "chainId": 9000,
+    "decimals": 18,
+    "address": "0xbefe898407483f0f2ff605971fbd8cf8fbd8b160",
+    "logoURI": "https://github.com/trustwallet/assets/blob/2ec0eafcf3f2e99ba4735bc67fd64ac6d5c34c2c/blockchains/arbitrum/assets/0x912CE59144191C1204E64559FE8253a0e49E6548/logo.png"
+  },
+    {
+    "name": "ATOM",
+    "symbol": "tATOM",
+    "chainId": 9000,
+    "decimals": 8,
+    "address": "0x9832169B33DC5777D3d28572f35E0a537Ff7A04C",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/ad3cfa2e1c8e4b295cd81d64ecc5ab2a9514f79e/blockchains/binance/assets/ATOM-596/logo.png"
+  }
+  ]
+}

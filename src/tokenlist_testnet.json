@@ -1,7 +1,7 @@
 {
-  "name": "Evmosdex List",
+  "name": "Forge Token List",
   "timestamp": "2023-02-24T00:00:00.000Z",
-  "logoURI": "https://www.evmosdex.fi/favicon.png",
+  "logoURI": "https://testnet.forge.trade/images/ForgeIcon.png",
   "version": {
     "major": 21,
     "minor": 0,
@@ -31,6 +31,22 @@
       "decimals": 18,
       "address": "0x43bDe47a34801f6aB2d66016Aef723Ba1b3A62b3",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+     {
+      "name": "LetsFuckingGo",
+      "symbol": "LFG",
+      "chainId": 9000,
+      "decimals": 18,
+      "address": "0xE7bbbEE8Fc04F93d5D07029754D2345684A9a28B",
+      "logoURI": "https://github.com/trustwallet/assets/blob/master/blockchains/binance/assets/BULL-BE4/logo.png"
+    },
+     {
+      "name": "Up Only",
+      "symbol": "UP",
+      "chainId": 9000,
+      "decimals": 18,
+      "address": "0xA83C23914Ab58B4A19C510f1A46FFB4fFcDa3c95",
+      "logoURI": "https://github.com/trustwallet/assets/blob/master/blockchains/binance/assets/SWINGBY-888/logo.png"
     }
   ]
 }

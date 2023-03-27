@@ -36,7 +36,7 @@ async function getListFromMaster(name) {
   return new Promise((resolve, reject) =>
     https
       .get(
-        `https://raw.githubusercontent.com/Orbital-Apes-Labs/tokenlist/main/src/${name}`,
+        `https://raw.githubusercontent.com/Forge-Trade/tokenlist/main/src/${name}`,
         (res) => {
           let body = "";
 

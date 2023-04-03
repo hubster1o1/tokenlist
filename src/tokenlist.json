@@ -86,7 +86,7 @@
       "chainId": 9001,
       "decimals": 6,
       "address": "0x8FA78CEB7F04118Ec6d06AaC37Ca854691d8e963",
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stjuno.png"
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/strd.png"
     },
     {
       "name": "Stride Staked Stars",
@@ -94,7 +94,7 @@
       "chainId": 9001,
       "decimals": 6,
       "address": "0xc7e56EEc629D3728fE41baCa2f6BFc502096f94E",
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/stjuno.png"
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/stride/images/ststars.png"
     },
     {
       "name": "Diffusion",

@@ -9,6 +9,14 @@
   },
   "tokens": [
     {
+      "name": "Cozmo Hydra",
+      "symbol": "Cozmo",
+      "chainId": 9000,
+      "decimals": 18,
+      "address": "0x6D002B0Ee066e99E1Ea5c374266627557e9FDe9b",
+      "logoURI": "https://docs.google.com/document/d/e/2PACX-1vSGZOqrkpkDIwnQYqOv-AHU1PUUPx-dufoKsBHrNkfoXBleeZzuTTCSpxDkLcrKYJAwIkLL_IHNXRvY/pub"
+    },
+    {
       "name": "USD Coin - Axelar",
       "symbol": "axlUSDC",
       "chainId": 9000,
